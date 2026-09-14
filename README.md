@@ -12,6 +12,6 @@ Le soluzioni delle esercitazioni vengono rilasciate, di norma, il giorno prima d
 
 Le slide utilizzate a supporto dell'esercitazione sono disponibili nella pagina AulaWeb del corso a [questo indirizzo](https://2026.aulaweb.unige.it/course/view.php?id=2993).
 
-Informazioni più dettagliate relative al corso sono disponibili sulla [pagina dedicata](https://corsi.unige.it/off.f/2026/ins/83918).
+Informazioni più dettagliate relative al corso sono disponibili sulla [pagina dedicata](https://corsi.unige.it/off.f/2026/ins/93640).
 
 Per assistenza sul materiale potete scrivere al docente utilizzando l'indirizzo email presente sulla pagina del corso.
